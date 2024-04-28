@@ -1,0 +1,9 @@
+node_modules
+.umi
+.umi-production
+*.png
+*.jpg
+.editorconfig
+.env
+.prettierignore
+.gitkeep
